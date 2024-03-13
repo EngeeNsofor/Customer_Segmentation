@@ -1,4 +1,4 @@
-# Customer_Segmentation
+# Customer Segmentation
 #UnsupervisedLearning #Clustering
 
 ### Background
